@@ -1,6 +1,7 @@
 # What Attention Buys: A Controlled Study on Multi30K
 
 A comparison of two LSTM sequence-to-sequence models for English-to-German translation, with and without Luong attention.
+- [Paper - zenodo](https://zenodo.org/records/24351642)
 
 ## Models
 
